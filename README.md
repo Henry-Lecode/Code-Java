@@ -7,3 +7,7 @@
 
 🏍️ **MotoGP** -->
 The program about a MotoGP race. The user enters information about the motorcycles, then races them and selects the winner of the race to receive the Champion award.
+
+---
+
+<h2 align="center">🎖️🎖️ Keep coding, keep learning — the bugs will fear you one day 🎖️🎖️</h2>
