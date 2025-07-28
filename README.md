@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/C.jpg?raw=true" width="150" height="150" />
+  <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Java.jpg?raw=true" width="150" height="150" />
 </p>
-<h1 align="center">🎉 Welcome To C Language 🎉</h1>
+<h1 align="center">🎉 Welcome To Java Language 🎉</h1>
 
 ---
 
