@@ -10,4 +10,4 @@ The program about a MotoGP race. The user enters information about the motorcycl
 
 ---
 
-<h2 align="center">🎖️🎖️ Keep coding, keep learning — the bugs will fear you one day 🎖️🎖️</h2>
+<h2 align="center">🎖️ Java teaches discipline with great class structure comes great responsibility 🎖️</h2>
