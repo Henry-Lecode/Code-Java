@@ -14,4 +14,4 @@ The program about a MotoGP race. The user enters information about the motorcycl
   <img src="https://github.com/Henry-Lecode/Henry-Lecode/blob/main/Yellowline.jpg?raw=true" width="1200" height="4" />
 </p>
 
-<h2 align="center">🎖️ Java teaches discipline with great class structure comes great responsibility 🎖️</h2>
+<h2 align="center">🎖️ Brew your brain with Java! 🎖️</h2>
